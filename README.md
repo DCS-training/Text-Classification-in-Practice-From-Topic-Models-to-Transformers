@@ -14,9 +14,12 @@ This course is ideal for those seeking to deepen their understanding of NLP work
 To attend the class, please log in via a google account. If you’d like to download and edit the files or code, please log into Google Colab and select the 'Copy to Drive' option to download and edit.
 
 - Log in to Google Colab: 
-[![Google Colab: Task 1](https://colab.research.google.com/github/DCS-training/Text-Calssification-in-Practice-From-Topic-Models-to-Transformers/blob/main/Task1-LDA-News%20Classification/Task1_LDA_News_Classification.ipynb)
-[![Google Colab: Task 2](https://colab.research.google.com/github/Zoey-Wu-ed/Text-Calssification-in-Practice-From-Topic-Models-to-Transformers/blob/main/Task2-LSTM-EcommerceClassification/LSTM.ipynb)
-[![Google Colab: Task 3](https://colab.research.google.com/github/Zoey-Wu-ed/Text-Calssification-in-Practice-From-Topic-Models-to-Transformers/blob/main/Task3-BERT-TweetsClassification/BERT.ipynb)
+
+[Task 1](https://colab.research.google.com/github/DCS-training/Text-Calssification-in-Practice-From-Topic-Models-to-Transformers/blob/main/Task1-LDA-News%20Classification/Task1_LDA_News_Classification.ipynb)
+
+[Task 2](https://colab.research.google.com/github/Zoey-Wu-ed/Text-Calssification-in-Practice-From-Topic-Models-to-Transformers/blob/main/Task2-LSTM-EcommerceClassification/LSTM.ipynb)
+
+[Task 3](https://colab.research.google.com/github/Zoey-Wu-ed/Text-Calssification-in-Practice-From-Topic-Models-to-Transformers/blob/main/Task3-BERT-TweetsClassification/BERT.ipynb)
 
 - [Download course material for Python ](https://github.com/DCS-training/OCR-From-Images-To-Text-2025/tree/main/Working%20with%20Python)
 
